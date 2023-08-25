@@ -1,0 +1,14 @@
+name: happy
+title: happy
+username:
+account: victornp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9673640
+bundleId: 7610167
+url: https://victornp.shinyapps.io/happy/
+when: 1692989963.08923
+lastSyncTime: 1692989963.08924
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: shiny.css

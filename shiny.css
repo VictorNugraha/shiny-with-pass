@@ -1,0 +1,8 @@
+.navbar-default {
+    background-color: #ff1515!important;
+}
+
+.navbar-default:hover {
+    background-color:#f75956 !important;
+    color: yellow;
+}
